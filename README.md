@@ -1,5 +1,7 @@
 # 💰 Data Science Salary Predictor
 
+**🚀 [Try the Live App Here](https://salarypredictor-rzfls2peyrquwxamnhxbdf.streamlit.app/)**
+
 ## Overview
 This is a machine learning web application that predicts the estimated annual salary of data science professionals based on their experience level, employment type, job role, and company location. 
 
@@ -12,11 +14,11 @@ This is a machine learning web application that predicts the estimated annual sa
 * **Language:** Python
 * **Data Manipulation:** Pandas, NumPy
 * **Machine Learning:** Scikit-Learn (Random Forest Regressor, Label Encoding)
-* **Deployment:** Streamlit
+* **Deployment:** Streamlit Community Cloud
 
 ## How to Run This Project Locally
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Gaurav28r/Salary_Preditor.git](https://github.com/Gaurav28r/Salary_Predictor.git)
+   git clone [https://github.com/Gaurav28r/Salary_Predictor.git](https://github.com/Gaurav28r/Salary_Predictor.git)
    cd Salary_Predictor
